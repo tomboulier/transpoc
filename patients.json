@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "sexe": "F",
+    "age": 31,
+    "antecedents": [
+      "HTA",
+      "insuffisance rénale chronique",
+      "asthme"
+    ],
+    "traitements": [
+      "Sintrom"
+    ],
+    "intervention": "PTH"
+  },
+  {
+    "id": 2,
+    "sexe": "F",
+    "age": 21,
+    "antecedents": [
+      "HTA",
+      "maladie coronaire",
+      "diabète de type 2"
+    ],
+    "traitements": [
+      "Sintrom",
+      "Lasilix"
+    ],
+    "intervention": "myomectomie"
+  },
+  {
+    "id": 3,
+    "sexe": "H",
+    "age": 72,
+    "antecedents": [
+      "SAOS",
+      "antécédent d’AVC",
+      "asthme"
+    ],
+    "traitements": [
+      "Plavix",
+      "Lovenox",
+      "Amlor"
+    ],
+    "intervention": "PTH"
+  },
+  {
+    "id": 4,
+    "sexe": "F",
+    "age": 66,
+    "antecedents": [
+      "asthme",
+      "BPCO"
+    ],
+    "traitements": [
+      "insuline"
+    ],
+    "intervention": "colectomie droite"
+  },
+  {
+    "id": 5,
+    "sexe": "H",
+    "age": 33,
+    "antecedents": [
+      "maladie coronaire",
+      "insuffisance rénale chronique"
+    ],
+    "traitements": [
+      "Amlor",
+      "Plavix"
+    ],
+    "intervention": "myomectomie"
+  },
+  {
+    "id": 6,
+    "sexe": "F",
+    "age": 23,
+    "antecedents": [
+      "insuffisance rénale chronique"
+    ],
+    "traitements": [
+      "Lasilix",
+      "Xarelto",
+      "Sintrom"
+    ],
+    "intervention": "colectomie droite"
+  },
+  {
+    "id": 7,
+    "sexe": "H",
+    "age": 76,
+    "antecedents": [
+      "asthme",
+      "diabète de type 2"
+    ],
+    "traitements": [
+      "Atacand"
+    ],
+    "intervention": "hystérectomie"
+  },
+  {
+    "id": 8,
+    "sexe": "F",
+    "age": 39,
+    "antecedents": [
+      "BPCO"
+    ],
+    "traitements": [
+      "Sintrom",
+      "Lovenox"
+    ],
+    "intervention": "colectomie droite"
+  },
+  {
+    "id": 9,
+    "sexe": "F",
+    "age": 59,
+    "antecedents": [
+      "antécédent d’AVC"
+    ],
+    "traitements": [
+      "Lovenox",
+      "Bisoprolol"
+    ],
+    "intervention": "césarienne programmée"
+  },
+  {
+    "id": 10,
+    "sexe": "F",
+    "age": 26,
+    "antecedents": [
+      "BPCO"
+    ],
+    "traitements": [
+      "Atacand"
+    ],
+    "intervention": "hystérectomie"
+  },
+  {
+    "id": 11,
+    "sexe": "F",
+    "age": 35,
+    "antecedents": [
+      "BPCO",
+      "asthme",
+      "cirrhose"
+    ],
+    "traitements": [
+      "Atacand",
+      "Plavix",
+      "Kardégic"
+    ],
+    "intervention": "hystérectomie"
+  },
+  {
+    "id": 12,
+    "sexe": "H",
+    "age": 35,
+    "antecedents": [
+      "SAOS",
+      "insuffisance rénale chronique",
+      "antécédent d’AVC"
+    ],
+    "traitements": [
+      "Lasilix",
+      "Atacand",
+      "Xarelto"
+    ],
+    "intervention": "césarienne programmée"
+  },
+  {
+    "id": 13,
+    "sexe": "F",
+    "age": 72,
+    "antecedents": [
+      "diabète de type 2"
+    ],
+    "traitements": [
+      "Kardégic"
+    ],
+    "intervention": "PTH"
+  },
+  {
+    "id": 14,
+    "sexe": "F",
+    "age": 19,
+    "antecedents": [
+      "maladie coronaire",
+      "cirrhose"
+    ],
+    "traitements": [
+      "Bisoprolol",
+      "Lovenox"
+    ],
+    "intervention": "myomectomie"
+  },
+  {
+    "id": 15,
+    "sexe": "H",
+    "age": 18,
+    "antecedents": [
+      "insuffisance rénale chronique",
+      "BPCO",
+      "diabète de type 2"
+    ],
+    "traitements": [
+      "Lovenox",
+      "Atacand",
+      "Kardégic"
+    ],
+    "intervention": "ligature des trompes"
+  },
+  {
+    "id": 16,
+    "sexe": "F",
+    "age": 43,
+    "antecedents": [
+      "SAOS",
+      "diabète de type 2",
+      "insuffisance rénale chronique"
+    ],
+    "traitements": [
+      "Bisoprolol"
+    ],
+    "intervention": "cure de hernie inguinale"
+  },
+  {
+    "id": 17,
+    "sexe": "H",
+    "age": 59,
+    "antecedents": [
+      "SAOS",
+      "maladie coronaire"
+    ],
+    "traitements": [
+      "Amlor"
+    ],
+    "intervention": "cure de hernie inguinale"
+  },
+  {
+    "id": 18,
+    "sexe": "F",
+    "age": 25,
+    "antecedents": [
+      "BPCO"
+    ],
+    "traitements": [
+      "Lovenox"
+    ],
+    "intervention": "césarienne programmée"
+  },
+  {
+    "id": 19,
+    "sexe": "H",
+    "age": 34,
+    "antecedents": [
+      "diabète de type 2",
+      "cirrhose",
+      "maladie coronaire"
+    ],
+    "traitements": [
+      "Bisoprolol"
+    ],
+    "intervention": "PTH"
+  },
+  {
+    "id": 20,
+    "sexe": "H",
+    "age": 43,
+    "antecedents": [
+      "insuffisance rénale chronique",
+      "SAOS",
+      "antécédent d’AVC"
+    ],
+    "traitements": [
+      "Sintrom"
+    ],
+    "intervention": "myomectomie"
+  }
+]
