@@ -21,15 +21,19 @@ def map_with_llm(prompt: str) -> str:
 
 if __name__ == "__main__":
     for antecedent in ["Diabète de type 2",
+                       "DT2",
                        "Hypertension artérielle",
+                       "HTA",
                        "Asthme",
                        "Hypercholestérolémie",
                        "Maladie coronarienne",
                        "Insuffisance cardiaque",
                        "Cancer du sein",
                        "Cancer de la prostate",
-                       "Maladie pulmonaire obstructive chronique (BPCO)",
+                       "Broncho-pneumopathie chronique obstructive (BPCO)",
+                       "BPCO",
                        "Hypertrophie bénigne de la prostate (HBP)",
+                       "HBP",
                        ]:
         prompt = f"Donne-moi le code CIM-10 pour '{antecedent}'. Réponds uniquement avec le code CIM-10."
         code = map_with_llm(prompt)
